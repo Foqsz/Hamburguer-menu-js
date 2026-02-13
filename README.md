@@ -1,11 +1,6 @@
 ```md
 # 🍔 Hamburguer Menu JS
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Foqsz/Hamburguer-menu-js)
-![GitHub last commit](https://img.shields.io/github/last-commit/Foqsz/Hamburguer-menu-js)
-![GitHub stars](https://img.shields.io/github/stars/Foqsz/Hamburguer-menu-js?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Foqsz/Hamburguer-menu-js?style=social)
-
 Menu hambúrguer **responsivo**, simples e funcional, desenvolvido com **HTML, CSS e JavaScript puro**, ideal para navegação em dispositivos móveis.
 
 ---
