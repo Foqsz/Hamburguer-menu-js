@@ -1,7 +1,7 @@
 ```md
 # 🍔 Hamburguer Menu JS
 
-Menu hambúrguer **responsivo**, simples e funcional, desenvolvido com **HTML, CSS e JavaScript puro**, ideal para navegação em dispositivos móveis.
+Menu hambúrguer simples e funcional, desenvolvido com **HTML, CSS e JavaScript puro**, ideal para navegação em dispositivos móveis.
 
 ---
 
